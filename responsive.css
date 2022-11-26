@@ -1,21 +1,4 @@
-@media(max-width:800px) {
-    .top-wrapper h1 {
-        font-size: 32px;
-    }
-    .lesson-wrapper h2{
-        font-size: 20px;
-    }
-    .lesson {
-        width: 50%;
-        margin-bottom: 50px;
-    }
-    footer {
-        text-align: center;
-    }
-
-
-}
-@media(max-width:500) {
+@media(max-width:900) {
     .header-right {
         display: none;
     }
