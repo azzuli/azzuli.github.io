@@ -149,3 +149,6 @@ footer p {
 .menu-icon {
     display: none;
 }
+.clear {
+  clear:left
+}
