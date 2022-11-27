@@ -1,4 +1,4 @@
-@media(max-width:900) {
+@media screen and (max-width:670) {
     .header-right {
         display: none;
     }
