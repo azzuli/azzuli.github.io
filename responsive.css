@@ -1,0 +1,32 @@
+@media screen and (max-width:670px) {
+    .header-right {
+        display: none;
+    }
+    .menu-icon {
+        display: block;
+    }
+    .top-wrapper h1 {
+        font-size: 24px;
+        text-align: left;
+    }
+    .top-wrapper p {
+        font-size: 14px;
+        text-align: left;
+    }
+    .top-wrapper .btn {
+        width: 100%;
+    }
+    .facebook {
+        margin-top: 10px;
+    }
+    .lesson {
+        width: 100%;
+    }
+    .message {
+        width: 100%;
+    }
+    footer {
+        text-align: center;
+    }
+
+}
